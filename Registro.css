@@ -1,0 +1,15 @@
+.registro1{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:rgb(32, 74, 46);
+    font-size: 60px;
+    height: 500px; 
+}
+.Nombre{
+    color:rgb(32, 74, 46);
+    font-size: 20px;
+    height: 20px;
+}
+
